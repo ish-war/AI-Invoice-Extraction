@@ -79,6 +79,9 @@ http://127.0.0.1:5000/
 
 ### Screenshots 
 
+<img width="1922" height="1386" alt="invoice1" src="https://github.com/user-attachments/assets/6327e4e5-4046-4c04-84df-2578a0761d9f" />
+
+<img width="1782" height="1254" alt="invoice2" src="https://github.com/user-attachments/assets/aaa1c962-0d59-46e2-bbc6-f51d8aa77ad8" />
 
 
 ### Acknowledgements
@@ -95,6 +98,5 @@ http://127.0.0.1:5000/
 ### License
 
 This project is licensed under the MIT License.
-MIT License
 
-Copyright (c) 2025
+MIT License , Copyright (c) 2025
