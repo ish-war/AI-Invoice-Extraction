@@ -36,12 +36,9 @@ Build an AI system that automatically reads scanned or digital invoices (PDFs/im
 
 ## 🚀 How It Works
 
-1. **Upload an invoice** (image or PDF)
-2. **Choose extraction method**:
-   - `Normal OCR`: Tesseract-based optical character recognition
-   - `Groq OCR`: Uses Groq's LLaMA-based multimodal vision model via API
-3. **View JSON Output**
-4. **Download** as `.csv` or `.xlsx`
+Below is the workflow of how the system processes input files:
+<img width="3840" height="3493" alt="ai-invoice-workflow" src="https://github.com/user-attachments/assets/2b4ac385-4d6b-45fc-b693-9044f44c9fbc" />
+
 
 ---
 
