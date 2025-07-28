@@ -79,9 +79,9 @@ http://127.0.0.1:5000/
 
 ### Screenshots 
 
-<img width="1922" height="1386" alt="invoice1" src="https://github.com/user-attachments/assets/6327e4e5-4046-4c04-84df-2578a0761d9f" />
+<img width="1630" height="1462" alt="new-invoice1" src="https://github.com/user-attachments/assets/1377149d-21c9-4014-b7c9-9a5cabbbca94" />
 
-<img width="1782" height="1254" alt="invoice2" src="https://github.com/user-attachments/assets/aaa1c962-0d59-46e2-bbc6-f51d8aa77ad8" />
+<img width="1616" height="1442" alt="new-invoice2" src="https://github.com/user-attachments/assets/7c08a913-a8ff-4fb3-a360-e3286b112ecd" />
 
 
 ### Acknowledgements
